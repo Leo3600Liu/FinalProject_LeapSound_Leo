@@ -12,4 +12,4 @@ Finally, when I finish the final project. I found out that there is something di
 All in all, it is a great opportunity for me to design a finger controlling music apps. Although it is rudiment because it only can be tracked by one finger, it has a lot of pretentious for me to continue designing it. I will try to add more instruct into it to improve my project in the future. I will track both hands at the same time, and give a different order for each hand. 
 
 
-![This is the screenshot]()
+![This is the screenshot](https://github.com/Leo3600Liu/FinalProject_LeapSound_Leo/blob/master/assets/FinalProject_LeapSound_Leo.png)
